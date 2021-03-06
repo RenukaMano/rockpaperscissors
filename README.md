@@ -1,2 +1,2 @@
 # rockpaperscissors
-A project from codecadamy
+A project from codecadamy.
